@@ -1,4 +1,4 @@
-#3D Matplotlib:
+# 3D Matplotlib:
 - Most of the time we have been working with 2D matplotlib.
 - Matplotlib supports 3D plotting also.
 - mpolt3D module is used to plot 3D Visualization.
